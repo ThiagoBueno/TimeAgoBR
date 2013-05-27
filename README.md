@@ -10,9 +10,9 @@ app/config/app.php
 
 adicionar em "aliases"
 
-'TimeAgo'      => 'Classes\Util\TimeAgo',
+'TimeAgoBR'      => 'Classes\Util\TimeAgoBR',
 
 
 ### Na sua aplicação:
 
-TimeAgo::rData($data)
+TimeAgoBR::rData($data)
